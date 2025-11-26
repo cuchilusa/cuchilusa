@@ -1,6 +1,10 @@
 ## Hi there 👋
 # 👋 ¡Hola! Soy Laura
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="ASSET_MP_157639538.webp">
+ <source media="(prefers-color-scheme: light)" srcset="ASSET_MP_157639538.webp">
+ <img alt="YOUR-ALT-TEXT" src="foto-perro.jpg">
+</picture>
 Soy estudiante de **FP Superior DAM** y me gusta la programación orientada a objetos.
 
 ## 🔧 Tecnologías
