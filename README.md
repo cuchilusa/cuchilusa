@@ -1,4 +1,20 @@
 ## Hi there 👋
+# 👋 ¡Hola! Soy Laura
+
+Soy estudiante de **FP Superior DAM** y me gusta la programación orientada a objetos.
+
+## 🔧 Tecnologías
+- Java
+- Python
+- HTML, CSS y JavaScript
+
+## 🌱 Actualmente estoy aprendiendo
+- Git y GitHub
+- Desarrollo web moderno
+- SQL y bases de datos
+
+## 📫 Contacto
+[LinkedIn](https://linkedin.com)
 
 <!--
 **cuchilusa/cuchilusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
